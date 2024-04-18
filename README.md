@@ -32,9 +32,3 @@ Usage
 
 To use this program, ensure you have an input file named "input.txt" with the appropriate data format. Compile and run the program, and it will display the records in the hash table.
 
-bash
-
-$ gcc your_program.c -o your_program
-$ ./your_program
-
-Feel free to adapt and integrate this hash table implementation into your projects as needed.
